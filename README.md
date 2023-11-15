@@ -5,6 +5,9 @@ I learned about Shaders in a beautiful creative coding workshop by [Ilithya](htt
 Using [this beautiful playground](https://shawnlawson.github.io/The_Force/) called The Force provided by Shawn Lawson.
 
 The code uploaded here creates two grids on top of each other while moving across the x and y axis.
+I provide two sample files. One reacts to the outside sounds once you've activated your computer's microphone.
+The other file doesn't use the microphone and just moves over time.
+
 Feel free to copy and play around! :)
 
 To use the code, click on [The Force](https://shawnlawson.github.io/The_Force/) and upload one of the files
