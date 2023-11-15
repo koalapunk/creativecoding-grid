@@ -1,6 +1,5 @@
 void main () {
-    // DEMO by ilithya.rocks
-    // For https://shawnlawson.github.io/The_Force/
+    // https://shawnlawson.github.io/The_Force/
     // Press 'shift + ctrl' to toggle code
 
     // PIXELS ON THE SCREEN
@@ -9,7 +8,6 @@ void main () {
     vec2 uv2 = uv;
     vec2 uv3 = uv;
     
-
     // GROUP OF LINES
     // ad time to make the grids move
     // subtract time to move into the other direction
