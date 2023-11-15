@@ -1,6 +1,5 @@
 void main () {
-    // DEMO by ilithya.rocks
-    // For https://shawnlawson.github.io/The_Force/
+    // https://shawnlawson.github.io/The_Force/
     // Press 'shift + ctrl' to toggle code
 
     // PIXELS ON THE SCREEN
